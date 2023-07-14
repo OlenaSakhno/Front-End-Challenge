@@ -1,0 +1,9 @@
+export { default as Movie } from "./Movie";
+export { default as Movies } from "./Movies";
+export { default as TVShows } from "./TVShows";
+export { default as Home } from "./Home";
+export { default as MyList } from "./MyList";
+export { default as Header } from "./Header";
+export { default as Footer } from "./Footer";
+export { default as Downloads } from "./Downloads";
+export { default as More } from "./More";
